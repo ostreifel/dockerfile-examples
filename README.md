@@ -15,3 +15,4 @@ Then to run that image and attach to it at the same time:
 Or to run it in the background
   
     docker run -d rethinkdb
+    
