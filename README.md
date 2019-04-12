@@ -1,6 +1,5 @@
 Some basic dockerfile examples
 ==============================
-
 Use with Docker http://www.docker.io
 
 To build an image with docker is pretty simple:
